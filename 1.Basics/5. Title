@@ -1,0 +1,19 @@
+5. Title
+
+El encabezado del encabezado puede ser una caracteristica que puede indentificar el contenido de la pagina
+
+esta debera ir en el encabezado y dentro de las etiquetas title
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My first website</title>
+</head>
+<body>
+	Hello Klvst3r!
+</body>
+</html>
+
+
+Aunque este contenido desplegara lo mismo que el primer script, la diferencia es que ahora el contenido tiene sentido y significado.
+

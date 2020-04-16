@@ -1,0 +1,29 @@
+4.Head of the document
+
+Para entender html recordaremos que hay tres elementos en la declaracion de una etiqueta.
+
+para iniciar el documento debemos establecer el encabezado
+
+<head>
+
+y el couerpo que es donde recularmente estara el contenido del documento sera entre las etiquetas 
+
+<body>
+
+y el encabezado contiene la información sobre el cuerpo
+
+El cuerpo contiene el contenido actual que sera deplegado y el encabezado contendra su inforamción sobre el contenido.
+
+Como consejo deesarrollo es que inmediatamente que abrimos una etiqueta ls debemos cerrar.
+
+Hasta ahora el contenido es
+
+<!DOCTYPE html>
+<html>
+	<head>
+		
+	</head>
+	<body>
+
+	</body>
+</html>

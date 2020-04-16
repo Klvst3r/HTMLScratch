@@ -1,0 +1,25 @@
+Elements
+Para iniciar o aboservar mas sobre cada vez.
+
+La quinta version de html permite introducir nuevos elementos semanticos para auidar a entender a las computadoras.
+
+Se veran ahora las nuevas partes de un documento.
+
+Se utilizara como ejemplo el grafico
+
+1. Campany Site
+
+1. Que contendra un encabezado con el titulo
+2. Barra de navegación.
+3- Una sección, que es un bloque con texto y contenido.
+4. Dos articulos con algun contenido adicional
+5- Un Aside, que permite algunas promociones o lings relevantes
+
+
+Para iniciar el sitio se describe en la imagen
+
+Content/1.Company Site.png
+
+El sitio inicia en
+
+code/elements.html

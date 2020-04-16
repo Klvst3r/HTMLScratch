@@ -1,0 +1,26 @@
+What is HTML
+
+Hyper Text Markup Language
+
+Actualmente se encuantra la version5
+
+Para desarrollar con semantica y darle un verdadero significado al contenido web
+
+HTML5 es actualmente utilizado por Google, Yahoo, Bing
+
+Donde las computadoras pueden entender los sitios web.
+
+No ses necesario entender todas las veriones ya que el standar actual es HTML5
+
+HTML5 con su semantica describira el contenido en un documento o una pagina web.
+
+Las etiquetas o Tags describen el contenido a traves de etiquetas que dividiran el significado de cada segmento del contenido web.
+
+la sintaxis sera:
+
+<TAG>
+	Centenido
+</TAG>
+
+La etiqueta no desplegara sino el contenido dentro de las etiquetas.
+
