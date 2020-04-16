@@ -1,0 +1,10 @@
+1. Doctype
+
+<!doctype html>
+
+Con esta etiqueta el navegador entendera que el codigo sera procesesado como codigo HTML
+
+Para recargar el contenido CTRL + R o F5
+
+Si no colocamos etiquetas html se renderizara texto plano
+
